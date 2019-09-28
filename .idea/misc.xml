@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/casclient-demo1" />
+    <file type="web" url="file://$PROJECT_DIR$/casclient-demo2" />
+    <file type="web" url="file://$PROJECT_DIR$/casclient-demo3" />
+    <file type="web" url="file://$PROJECT_DIR$/fastDFS" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-cart-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-page-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-pay-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-pay-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-portal-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-portall-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-sellergoods-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-shop-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-user-service" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyougou-user-web" />
+    <file type="web" url="file://$PROJECT_DIR$/pinyouogou-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/spring-security-demo" />
+    <file type="web" url="file://$PROJECT_DIR$/springDataSolrDemo" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/itcast-sms/pom.xml" />
+        <option value="D:/教学视频/品优购/3.品优购资源V1.3/配套软件/配套软件/阿里大于/dysmsapi_demo_sdk__java/java/api_demo/alicom-dysms-api/pom.xml" />
+        <option value="$PROJECT_DIR$/casclient-demo1/pom.xml" />
+        <option value="$PROJECT_DIR$/casclient-demo2/pom.xml" />
+        <option value="$PROJECT_DIR$/casclient-demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-order-interface/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/fastDFS/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-content-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-page-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-pages-web/pom.xml" />
+        <option value="$PROJECT_DIR$/pinyougou-portal-web/pom.xml" />
+        <option value="$PROJECT_DIR$/springDataSolrDemo/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
